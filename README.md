@@ -4,7 +4,11 @@
 ![BigMilts's GitHub stats](https://github-readme-stats.vercel.app/api?username=BigMilts&show_icons=true&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BigMilts&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BigMilts)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+![https://gitlab.com/BigMilts](https://gitlab.com/BigMilts)
 
 <!--
 **BigMilts/BigMilts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
