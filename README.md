@@ -2,7 +2,8 @@
 
 ## Who am I ?
 
-I'm Milton. A 🇧🇷 full stack web developer, lover of ⚽, sporadic runner 🏃. I'm always learning new things about development 🖥️ 
+I'm Milton. A 🇧🇷 full stack web developer, lover of ⚽, sporadic runner 🏃. 
+Besides, I'm always learning new things about development 🖥️ 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BigMilts)](https://github.com/anuraghazra/github-readme-stats)
 ![BigMilts's GitHub stats](https://github-readme-stats.vercel.app/api?username=BigMilts&show_icons=true&theme=radical) 
