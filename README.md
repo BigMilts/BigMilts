@@ -1,8 +1,7 @@
 ## Hi there, I'm Milton, a full stack web developer 😄
 
-
-![BigMilts's GitHub stats](https://github-readme-stats.vercel.app/api?username=BigMilts&show_icons=true&theme=radical) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BigMilts)](https://github.com/anuraghazra/github-readme-stats)
+![BigMilts's GitHub stats](https://github-readme-stats.vercel.app/api?username=BigMilts&show_icons=true&theme=radical) 
 
 
 ### Some plataforms which I use
