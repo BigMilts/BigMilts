@@ -2,7 +2,7 @@
 
 ## Who am I ?
 
-I'm Milton. A 🇧🇷 full stack web developer, lover of ⚽, sporadic runner 🏃.
+I'm Milton a 🇧🇷 full stack web developer, lover of ⚽, sporadic runner 🏃.
 
 Besides, I'm always learning new things about development 🖥️ 
 
